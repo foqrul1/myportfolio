@@ -1,0 +1,130 @@
+/* Filter output css*/
+/*#2D3E50*/
+.filtr-item {
+    padding: 1rem;
+}
+.item-desc {
+	background-color: rgba(0, 0, 0, 0.5);
+    /*border-radius: 5px;*/
+    bottom: 45px;
+    color: white;
+    display: block;
+    font-weight: 300;
+    left: 2rem;
+    padding: 8px;
+    position: absolute;
+    right: 2rem;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+/* Filter controls */
+.simplefilter li, .sortandshuffle li {
+    color: white;
+    cursor: pointer;
+    display: inline-block;
+    text-transform: capitalize;
+    padding: 4px 30px;
+}
+ .sortandshuffle li:hover {
+    border: 4px solid #ffffff;
+    padding: 7px 28px;
+}
+.simplefilter li {
+    /*background-color: #585858;*/
+	border:4px solid;
+	font-weight:400;
+}
+.simplefilter li:hover {
+  
+    /*border: 4px solid #ffffff;*/
+   background-color: #585858;
+    /*padding: 11px 36px;*/
+}
+
+.simplefilter li.active {
+    background-color: #000000;
+	color:#FFFFFF;
+	
+}
+
+
+/* Shuffle and sort controls */
+
+.sortandshuffle .shuffle-btn {
+    background-color: #dec800;
+}
+.sortandshuffle .sort-btn {
+    background-color: #de0000;
+}
+.sortandshuffle .sort-btn.active {
+    background-color: #9d0000;
+}
+
+/* Search control */
+.search-row {
+    margin-left: 2.5rem;
+}
+.filtr-search {
+	border: 5px solid #ccc !important;
+	 padding: 7px 30px 6px !important;
+	text-transform: uppercase;
+}
+.item-position {
+	background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    color: white;
+    display: block;
+    font-weight: 300;
+    position: absolute;
+    text-align: center;
+    text-transform: uppercase;
+    bottom: auto;
+    left: 3rem;
+    padding: 0.75rem 1.25rem;
+    right: auto;
+    top: 3rem;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+
+
+/* Portfolio video gallery icon */
+
+.snipv12 {
+  
+  overflow: hidden;
+  width: 100%;
+  background: #000000;
+}
+.snipv12 .portfolio_thumbnail {
+  max-width: 100%;
+  vertical-align: top;
+  -webkit-transition: all 0.5s ease-out;
+  transition: all 0.5s ease-out;
+}
+.snipv12 .portfolio_thumbnail,
+.snipv12 .portfolio_thumbnail {
+  -webkit-transform: scale(1.12);
+  transform: scale(1.12);
+   opacity: 0.5;
+}
+
+.snipv12  i {
+	
+  color:#00ADEF;
+  position: absolute;
+  bottom: 50%;
+  right: 45%;
+  font-size: 30px;
+  line-height: 1em;
+  opacity: 0;
+  -webkit-transition: all 0.4s cubic-bezier(0.6, -0.8, 0.735, 0.045);
+  transition: all 0.4s cubic-bezier(0.6, -0.8, 0.735, 0.045);
+}
+.snipv12 i,
+.snipv12 i {
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  opacity:1;
+} 

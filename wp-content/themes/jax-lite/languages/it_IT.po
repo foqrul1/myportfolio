@@ -1,0 +1,2767 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WIP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-09 18:59+0100\n"
+"PO-Revision-Date: 2017-03-09 19:00+0100\n"
+"Last-Translator: Alessandro Vellutini <vellutini@hotmail.it>\n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e;esc_html_x:1,2c;esc_html__;"
+"esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:9 core/templates/masonry.php:47 core/templates/slogan.php:42
+#: layouts/archive-blog.php:45 layouts/home-blog.php:45
+#: layouts/search-blog.php:45
+msgid "Content not found"
+msgstr "Contenuto non trovato"
+
+#: 404.php:23
+msgid "Oops, it is a little bit embarassing..."
+msgstr "Oops, è leggermente imbarazzante..."
+
+#: 404.php:25
+msgid "The page that you requested, was not found."
+msgstr "La pagina che hai richiesto, non è stata trovata."
+
+#: 404.php:27 core/templates/masonry.php:51 layouts/archive-blog.php:49
+#: layouts/home-blog.php:49 layouts/search-blog.php:49
+msgid "What can i do?"
+msgstr "Cosa posso fare?"
+
+#: 404.php:29 core/templates/masonry.php:53 layouts/archive-blog.php:51
+#: layouts/home-blog.php:51 layouts/search-blog.php:51
+msgid "Back to the homepage"
+msgstr "Torna alla pagina principale"
+
+#: 404.php:31
+msgid "Check the typed URL"
+msgstr "Controlla l'url digitato"
+
+#: 404.php:33 core/templates/masonry.php:55 layouts/archive-blog.php:53
+#: layouts/home-blog.php:53 layouts/search-blog.php:53
+msgid "Make a search, from the below form:"
+msgstr "Effettua una ricerca, dal seguente form"
+
+#: 404.php:38 404.php:39 core/templates/masonry.php:60
+#: core/templates/masonry.php:61 layouts/archive-blog.php:58
+#: layouts/archive-blog.php:59 layouts/home-blog.php:58
+#: layouts/home-blog.php:59 layouts/search-blog.php:58
+#: layouts/search-blog.php:59
+msgid "Search"
+msgstr "Cerca"
+
+#: comments.php:11
+msgid "Comments"
+msgstr "Commenti"
+
+#: comments.php:39
+#, php-format
+msgid "<cite>%s</cite>"
+msgstr "<cite>%s</cite>"
+
+#: comments.php:41
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s a %2$s"
+
+#: comments.php:43
+msgid "(Edit)"
+msgstr "(Edit)"
+
+#: comments.php:49
+msgid "Your comment is awaiting approval."
+msgstr "Il tuo commento è in attesa di approvazione"
+
+#: comments.php:72
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: comments.php:73
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: comments.php:92
+msgid "Leave a reply"
+msgstr "Lascia un commento"
+
+#: comments.php:93
+msgid "Write a Reply or Comment"
+msgstr "Scrivi una risposta o commento."
+
+#: comments.php:94
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Lascia una risposta a %s"
+
+#: core/admin/customize/customize.php:11 core/admin/customize/customize.php:97
+msgid "Full Image Background"
+msgstr "Immagine di sfondo a piena pagina."
+
+#: core/admin/customize/customize.php:12
+msgid ""
+"Do you want to set a full background image? (After the upload, check "
+"'Fixed', from the Background Attachment section)"
+msgstr ""
+"Vuoi impostare uno sfondo a piena pagina? (Dopo l'upload, seleziona \"Fixed"
+"\" dalle impostazioni di attaccamento dell'immagine)"
+
+#: core/admin/customize/customize.php:17 core/admin/customize/customize.php:103
+#: core/admin/customize/customize.php:264
+#: core/admin/customize/customize.php:280
+#: core/admin/customize/customize.php:296
+#: core/admin/customize/customize.php:312
+#: core/admin/customize/customize.php:640
+msgid "No"
+msgstr "No"
+
+#: core/admin/customize/customize.php:18 core/admin/customize/customize.php:104
+#: core/admin/customize/customize.php:265
+#: core/admin/customize/customize.php:281
+#: core/admin/customize/customize.php:297
+#: core/admin/customize/customize.php:313
+#: core/admin/customize/customize.php:641
+msgid "Yes"
+msgstr "Si"
+
+#: core/admin/customize/customize.php:29 core/includes/class-customize.php:307
+msgid "Get support"
+msgstr "Ottieni supporto."
+
+#: core/admin/customize/customize.php:39
+msgid "Background Repeat"
+msgstr "Ripetizione dello sfondo"
+
+#: core/admin/customize/customize.php:40
+msgid "Choose a background repeat."
+msgstr "Scegli una ripezione, per lo sfondo."
+
+#: core/admin/customize/customize.php:45 core/admin/customize/customize.php:63
+msgid "None"
+msgstr "Nessuno"
+
+#: core/admin/customize/customize.php:46
+msgid "Repeat"
+msgstr "Ripeti"
+
+#: core/admin/customize/customize.php:47
+msgid "Horizontal Repeat"
+msgstr "Ripeti orizzontalmente"
+
+#: core/admin/customize/customize.php:48
+msgid "Vertical Repeat"
+msgstr "Ripeti verticalmente"
+
+#: core/admin/customize/customize.php:57
+msgid "Background Position"
+msgstr "Posizione dello sfondo"
+
+#: core/admin/customize/customize.php:58
+msgid "Choose a background position."
+msgstr "Scegli una posizione, per lo sfondo"
+
+#: core/admin/customize/customize.php:64
+msgid "Top Left"
+msgstr "In alto, a sinistra"
+
+#: core/admin/customize/customize.php:65
+msgid "Top Center"
+msgstr "In alto, al centro"
+
+#: core/admin/customize/customize.php:66
+msgid "Top Right"
+msgstr "In alto, a destra"
+
+#: core/admin/customize/customize.php:67
+msgid "Left"
+msgstr "Sinistra"
+
+#: core/admin/customize/customize.php:68
+msgid "Center"
+msgstr "Centro"
+
+#: core/admin/customize/customize.php:69
+msgid "Right"
+msgstr "Destra"
+
+#: core/admin/customize/customize.php:70
+msgid "Bottom Left"
+msgstr "In basso a sinistra"
+
+#: core/admin/customize/customize.php:71
+msgid "Bottom Center"
+msgstr "In basso e centrale"
+
+#: core/admin/customize/customize.php:72
+msgid "Bottom Right"
+msgstr "In basso a destra"
+
+#: core/admin/customize/customize.php:81
+msgid "Background Attachment"
+msgstr "Tipo di attaccamento dello sfondo"
+
+#: core/admin/customize/customize.php:82
+msgid "Choose a background attachment."
+msgstr "Scegli un tipo di attaccamento, per l'immagine di sfondo."
+
+#: core/admin/customize/customize.php:87
+msgid "Scroll"
+msgstr "Scorrevole"
+
+#: core/admin/customize/customize.php:88
+msgid "Fixed"
+msgstr "Fisso"
+
+#: core/admin/customize/customize.php:98
+msgid ""
+"Do you want to set a full background image?(Recommended with a fixed "
+"attachment)"
+msgstr ""
+"Vuoi impostare un'immagine di sfondo a piena pagina? (Consigliato, "
+"impostando un attaccamento fisso dell'immagine)"
+
+#: core/admin/customize/customize.php:113
+msgid "Header padding"
+msgstr "Padding della testata."
+
+#: core/admin/customize/customize.php:114
+msgid "Change the top and bottom padding, for increase the header height."
+msgstr "Cambia il padding, per incrementare l'altezza della testata."
+
+#: core/admin/customize/customize.php:124
+msgid "Header Text Color Hover"
+msgstr "Colore testo della testata, al passaggio del mouse."
+
+#: core/admin/customize/customize.php:138
+#: core/admin/customize/customize.php:139
+msgid "General"
+msgstr "Generali"
+
+#: core/admin/customize/customize.php:150
+msgid "Color Scheme"
+msgstr "Schema colori"
+
+#: core/admin/customize/customize.php:160
+msgid "Predefined Color Schemes"
+msgstr "Schema colori predefinito"
+
+#: core/admin/customize/customize.php:161
+msgid "Choose your Color Scheme"
+msgstr "Scegli uno schema di colori"
+
+#: core/admin/customize/customize.php:166
+msgid "Turquoise"
+msgstr "Turchese"
+
+#: core/admin/customize/customize.php:167
+msgid "Orange"
+msgstr "Arancione"
+
+#: core/admin/customize/customize.php:168
+msgid "Blue"
+msgstr "Blu"
+
+#: core/admin/customize/customize.php:169
+msgid "Red"
+msgstr "Rosso"
+
+#: core/admin/customize/customize.php:170
+msgid "Pink"
+msgstr "Rosa"
+
+#: core/admin/customize/customize.php:171
+msgid "Purple"
+msgstr "Viola"
+
+#: core/admin/customize/customize.php:172
+msgid "Yellow"
+msgstr "Giallo"
+
+#: core/admin/customize/customize.php:173
+msgid "Green"
+msgstr "Verde"
+
+#: core/admin/customize/customize.php:174
+msgid "White & Turquoise"
+msgstr "Bianco e Turchese"
+
+#: core/admin/customize/customize.php:175
+msgid "White & Orange"
+msgstr "Bianco e Arancione"
+
+#: core/admin/customize/customize.php:176
+msgid "White & Blue"
+msgstr "Bianco e Blu"
+
+#: core/admin/customize/customize.php:177
+msgid "White & Red"
+msgstr "Bianco e Rosso"
+
+#: core/admin/customize/customize.php:178
+msgid "White & Pink"
+msgstr "Bianco e Rosa"
+
+#: core/admin/customize/customize.php:179
+msgid "White & Purple"
+msgstr "Bianco e Viola"
+
+#: core/admin/customize/customize.php:180
+msgid "White & Yellow"
+msgstr "Bianco e Giallo"
+
+#: core/admin/customize/customize.php:181
+msgid "White & Green"
+msgstr "Bianco e Verde"
+
+#: core/admin/customize/customize.php:192
+msgid "Page width"
+msgstr "Grandezza della pagina"
+
+#: core/admin/customize/customize.php:202
+msgid "Screen greater than 768px"
+msgstr "Risoluzione superiore a 768px"
+
+#: core/admin/customize/customize.php:203
+msgid ""
+"Set a width, for a screen greater than 768 pixel (for example 750 and not "
+"750px ) "
+msgstr ""
+"Imposta una larghezza, per una risoluzione superiore a 768 pixel (per "
+"esempio 750 e non 750px)"
+
+#: core/admin/customize/customize.php:213
+msgid "Screen greater than 992px"
+msgstr "Risoluzione superiore a 992px"
+
+#: core/admin/customize/customize.php:214
+msgid ""
+"Set a width, for a screen greater than 992 pixel (for example 940 and not "
+"940px ) "
+msgstr ""
+"Imposta una larghezza, per una risoluzione superiore a 992 pixel (per "
+"esempio 940 e non 940px)"
+
+#: core/admin/customize/customize.php:224
+msgid "Screen greater than 1200px"
+msgstr "Risoluzione superiore a 1200px"
+
+#: core/admin/customize/customize.php:225
+msgid ""
+"Set a width, in px, for a screen greater than 1200 pixel (for example 1170 "
+"and not 1170px ) "
+msgstr ""
+"Imposta una larghezza, per una risoluzione superiore a 1200 pixel (per "
+"esempio 1170 e non1170px)"
+
+#: core/admin/customize/customize.php:235
+msgid "Screen greater than 1400px"
+msgstr "Risoluzione superiore a 1400px"
+
+#: core/admin/customize/customize.php:236
+msgid ""
+"Set a width, in px, for a screen greater than 1400 pixel (for example 1370 "
+"and not 1370px ) "
+msgstr ""
+"Imposta una larghezza in px, per una risoluzione maggiore di 1400 pixel (ad "
+"esempio 1370 e non 1370px) "
+
+#: core/admin/customize/customize.php:248
+msgid "Settings"
+msgstr " Impostazioni"
+
+#: core/admin/customize/customize.php:258
+msgid "Infinite scroll"
+msgstr "Infinite scroll"
+
+#: core/admin/customize/customize.php:259
+msgid "Do you want to use the infinite scroll, for the articles?"
+msgstr "Vuoi utilizzare l'infinite scroll, per gli articoli?"
+
+#: core/admin/customize/customize.php:274
+msgid "Animated title"
+msgstr "Titoli animati"
+
+#: core/admin/customize/customize.php:275
+msgid "Do you want to use the animated title system?"
+msgstr "Si desidera visualizzare dei titoli animati?"
+
+#: core/admin/customize/customize.php:290
+msgid "Preloading system"
+msgstr "Sistema di precaricamento"
+
+#: core/admin/customize/customize.php:291
+msgid "Do you want to use the preloading system?"
+msgstr "Si desidera utilizzare il sistema di precariamente?"
+
+#: core/admin/customize/customize.php:306
+msgid "Read more button"
+msgstr "Pulsante Leggi tutto"
+
+#: core/admin/customize/customize.php:307
+msgid "Do you want to use a button, for open the posts? (Instead of [...])"
+msgstr ""
+"Vuoi utilizzare un pulsante, per aprire gli articoli? (Invece di [...])"
+
+#: core/admin/customize/customize.php:322
+msgid "Styles"
+msgstr "Stili"
+
+#: core/admin/customize/customize.php:332
+msgid "Custom css"
+msgstr "Css personalizzato"
+
+#: core/admin/customize/customize.php:333
+msgid "Insert your custom css code."
+msgstr "Inserisci il tuo codice css personalizzato."
+
+#: core/admin/customize/customize.php:345
+msgid "Layouts"
+msgstr "Layouts"
+
+#: core/admin/customize/customize.php:355
+msgid "Home Blog Layout"
+msgstr "Layout per la Homepage"
+
+#: core/admin/customize/customize.php:356
+msgid "If you've set the latest articles, for the homepage, choose a layout."
+msgstr ""
+"Se hai impostato la visualizzazione degli ultimi articoli, in homepage, "
+"scegli il layout."
+
+#: core/admin/customize/customize.php:361
+#: core/admin/customize/customize.php:380
+#: core/admin/customize/customize.php:399 core/metaboxes/pages.php:43
+#: core/metaboxes/posts.php:42
+msgid "Full Width"
+msgstr "Piena pagina"
+
+#: core/admin/customize/customize.php:362
+#: core/admin/customize/customize.php:381
+#: core/admin/customize/customize.php:400 core/metaboxes/pages.php:44
+#: core/metaboxes/posts.php:43
+msgid "Left Sidebar"
+msgstr "Sidebar a sinistra"
+
+#: core/admin/customize/customize.php:363
+#: core/admin/customize/customize.php:382
+#: core/admin/customize/customize.php:401 core/metaboxes/pages.php:45
+#: core/metaboxes/posts.php:44
+msgid "Right Sidebar"
+msgstr "Sidebar a destra"
+
+#: core/admin/customize/customize.php:364
+#: core/admin/customize/customize.php:383
+#: core/admin/customize/customize.php:402
+msgid "Masonry"
+msgstr "Masonry"
+
+#: core/admin/customize/customize.php:374
+msgid "Category Layout"
+msgstr "Layout categoria"
+
+#: core/admin/customize/customize.php:375
+msgid "Select a layout for category pages."
+msgstr "Scegli un layout per le categorie."
+
+#: core/admin/customize/customize.php:393
+msgid "Search Layout"
+msgstr "Layout pagina ricerca"
+
+#: core/admin/customize/customize.php:394
+msgid "Select a layout for the search page."
+msgstr "Scegli un layout per la pagina di ricerca."
+
+#: core/admin/customize/customize.php:413
+msgid "Thumbnails"
+msgstr "Miniature"
+
+#: core/admin/customize/customize.php:423
+msgid "Blog Thumbnail"
+msgstr "Miniatura per il blog"
+
+#: core/admin/customize/customize.php:424
+msgid "Insert the height for blog thumbnail."
+msgstr "Inserisci l'altezza per le miniature del blog"
+
+#: core/admin/customize/customize.php:436 core/metaboxes/pages.php:22
+#: core/metaboxes/pages.php:59 core/metaboxes/posts.php:21
+#: core/metaboxes/posts.php:73
+msgid "Header"
+msgstr "Testata"
+
+#: core/admin/customize/customize.php:446
+msgid "Custom Logo"
+msgstr "Logo personalizzato"
+
+#: core/admin/customize/customize.php:447
+msgid "Upload your custom logo"
+msgstr "Carica il tuo logo"
+
+#: core/admin/customize/customize.php:459
+msgid "Footer"
+msgstr "Footer"
+
+#: core/admin/customize/customize.php:469
+msgid "Copyright Text"
+msgstr "Testo del copyright"
+
+#: core/admin/customize/customize.php:470
+msgid "Insert your copyright text."
+msgstr "Inserisci il testo per il copyright"
+
+#: core/admin/customize/customize.php:480
+msgid "Facebook Url"
+msgstr "Url Facebook"
+
+#: core/admin/customize/customize.php:481
+msgid "Insert Facebook Url (empty if you want to hide the button)"
+msgstr ""
+"Inserisci l'url di Facebook, lascia il campo vuoto per non visualizzare il "
+"pulsante."
+
+#: core/admin/customize/customize.php:491
+msgid "Twitter Url"
+msgstr "Url Twitter"
+
+#: core/admin/customize/customize.php:492
+msgid "Insert Twitter Url (empty if you want to hide the button)"
+msgstr ""
+"Inserisci l'url di Twitter, lascia il campo vuoto per non visualizzare il "
+"pulsante."
+
+#: core/admin/customize/customize.php:502
+msgid "Flickr Url"
+msgstr "Url Flickr"
+
+#: core/admin/customize/customize.php:503
+msgid "Insert Flickr Url (empty if you want to hide the button)"
+msgstr ""
+"Inserisci l'url di Flickr, lascia il campo vuoto per non visualizzare il "
+"pulsante."
+
+#: core/admin/customize/customize.php:513
+msgid "Google Url"
+msgstr "Url Google"
+
+#: core/admin/customize/customize.php:514
+msgid "Insert Google Url (empty if you want to hide the button)"
+msgstr ""
+"Inserisci l'url di Google, lascia il campo vuoto per non visualizzare il "
+"pulsante."
+
+#: core/admin/customize/customize.php:524
+msgid "Linkedin Url"
+msgstr "Url Linkedin"
+
+#: core/admin/customize/customize.php:525
+msgid "Insert Linkedin Url (empty if you want to hide the button)"
+msgstr ""
+"Inserisci l'url di Linkedin, lascia il campo vuoto per non visualizzare il "
+"pulsante."
+
+#: core/admin/customize/customize.php:535
+msgid "Pinterest Url"
+msgstr "Url Pinterest"
+
+#: core/admin/customize/customize.php:536
+msgid "Insert Pinterest Url (empty if you want to hide the button)"
+msgstr ""
+"Inserisci l'url di Pinterest, lascia il campo vuoto per non visualizzare il "
+"pulsante."
+
+#: core/admin/customize/customize.php:546
+msgid "Tumblr Url"
+msgstr "Url Tumblr"
+
+#: core/admin/customize/customize.php:547
+msgid "Insert Tumblr Url (empty if you want to hide the button)"
+msgstr ""
+"Inserisci l'url di Tumblr, lascia il campo vuoto per non visualizzare il "
+"pulsante."
+
+#: core/admin/customize/customize.php:557
+msgid "Youtube Url"
+msgstr "Url Youtube"
+
+#: core/admin/customize/customize.php:558
+msgid "Insert Youtube Url (empty if you want to hide the button)"
+msgstr ""
+"Inserisci l'url di Youtube, lascia il campo vuoto per non visualizzare il "
+"pulsante."
+
+#: core/admin/customize/customize.php:568
+msgid "Skype Url"
+msgstr "Url Skype"
+
+#: core/admin/customize/customize.php:569
+msgid "Insert Skype ID (empty if you want to hide the button)"
+msgstr ""
+"Inserisci l'url di Skype, lascia il campo vuoto per non visualizzare il "
+"pulsante."
+
+#: core/admin/customize/customize.php:579
+msgid "Instagram Url"
+msgstr "Url Instagram"
+
+#: core/admin/customize/customize.php:580
+msgid "Insert Instagram Url (empty if you want to hide the button)"
+msgstr ""
+"Inserisci l'url di Instagram, lascia il campo vuoto per non visualizzare il "
+"pulsante."
+
+#: core/admin/customize/customize.php:590
+msgid "Github Url"
+msgstr "Url Github"
+
+#: core/admin/customize/customize.php:591
+msgid "Insert Github Url (empty if you want to hide the button)"
+msgstr ""
+"Inserisci l'url di Github, lascia il campo vuoto per non visualizzare il "
+"pulsante."
+
+#: core/admin/customize/customize.php:601
+msgid "Xing Url"
+msgstr "Url Xing"
+
+#: core/admin/customize/customize.php:602
+msgid "Insert Xing Url (empty if you want to hide the button)"
+msgstr ""
+"Inserisci l'url di Xing, lascia il campo vuoto per non visualizzare il "
+"pulsante."
+
+#: core/admin/customize/customize.php:612
+msgid "WhatsApp number"
+msgstr "Numero WhatsApp"
+
+#: core/admin/customize/customize.php:613
+msgid "Insert WhatsApp number (empty if you want to hide the button)"
+msgstr ""
+"Inserisci il numero WhatsApp, lascia il campo vuoto per non visualizzare il "
+"pulsante."
+
+#: core/admin/customize/customize.php:623
+msgid "Email Address"
+msgstr "Indirizzo email"
+
+#: core/admin/customize/customize.php:624
+msgid "Insert Email Address (empty if you want to hide the button)"
+msgstr ""
+"Inserisci la tua email, lascia il campo vuoto per non visualizzare il "
+"pulsante."
+
+#: core/admin/customize/customize.php:634
+msgid "Feed Rss Button"
+msgstr "Pulsante Feed Rss"
+
+#: core/admin/customize/customize.php:635
+msgid "Do you want to display the Feed Rss button?"
+msgstr "Vuoi visualizzare il pulsante dei Feed Rss?"
+
+#: core/admin/customize/customize.php:652
+#: core/admin/customize/customize.php:653
+msgid "Typography"
+msgstr "Tipografia"
+
+#: core/admin/customize/customize.php:664
+msgid "Logo"
+msgstr "Logo"
+
+#: core/admin/customize/customize.php:674
+#: core/admin/customize/customize.php:742
+#: core/admin/customize/customize.php:765
+msgid "Font size"
+msgstr "Grandezza del font"
+
+#: core/admin/customize/customize.php:675
+msgid "Insert a size, for logo font (For example, 60px) "
+msgstr "Inserisci una grandezza, per il font del logo (Ad esempio, 60px)"
+
+#: core/admin/customize/customize.php:685
+msgid "Description size"
+msgstr "Grandezza descrizione"
+
+#: core/admin/customize/customize.php:686
+msgid "Insert a size, for logo description (For example, 60px) "
+msgstr ""
+"Seleziona una grandezza per la descrizione del logo (Per esempio, 60px)"
+
+#: core/admin/customize/customize.php:698 core/metaboxes/pages.php:63
+#: core/metaboxes/posts.php:77
+msgid "Slogan"
+msgstr "Slogan"
+
+#: core/admin/customize/customize.php:708
+msgid "Slogan font size"
+msgstr "Grandezza del font per lo slogan."
+
+#: core/admin/customize/customize.php:709
+msgid "Choose a size for slogan."
+msgstr "Scegli una grandezza per lo slogan"
+
+#: core/admin/customize/customize.php:719
+msgid "Subslogan font size"
+msgstr "Grandezza del font per il sottoslogan."
+
+#: core/admin/customize/customize.php:720
+msgid "Choose a size for subslogan."
+msgstr "Scegli una grandezza per il sotto slogan"
+
+#: core/admin/customize/customize.php:732
+msgid "Menu"
+msgstr "Menu"
+
+#: core/admin/customize/customize.php:743
+msgid "Insert a size, for menu font (For example, 14px) "
+msgstr "Inserisci una grandezza, per il menu (Ad esempio, 14px)"
+
+#: core/admin/customize/customize.php:755
+msgid "Content"
+msgstr "Contenuto"
+
+#: core/admin/customize/customize.php:766
+msgid "Insert a size, for content font (For example, 14px) "
+msgstr "Inserisci una grandezza, per il font del contenuto (ad esempio, 14px)"
+
+#: core/admin/customize/customize.php:779
+msgid "Headlines"
+msgstr "Titoli"
+
+#: core/admin/customize/customize.php:789
+msgid "H1 headline"
+msgstr "Elementi H1"
+
+#: core/admin/customize/customize.php:790
+msgid "Insert a size, for for H1 elements (For example, 24px) "
+msgstr "Inserisci una grandezza, per i titoli H1 (Ad esempio, 24px)"
+
+#: core/admin/customize/customize.php:800
+msgid "H2 headline"
+msgstr "Elementi H2"
+
+#: core/admin/customize/customize.php:801
+msgid "Insert a size, for for H2 elements (For example, 22px) "
+msgstr "Inserisci una grandezza, per i titoli H2 (Ad esempio, 22px)"
+
+#: core/admin/customize/customize.php:811
+msgid "H3 headline"
+msgstr "Elementi H3"
+
+#: core/admin/customize/customize.php:812
+msgid "Insert a size, for for H3 elements (For example, 20px) "
+msgstr "Inserisci una grandezza, per i titoli H3 (Ad esempio, 20px)"
+
+#: core/admin/customize/customize.php:822
+msgid "H4 headline"
+msgstr "\"\"Elementi H4"
+
+#: core/admin/customize/customize.php:823
+msgid "Insert a size, for for H4 elements (For example, 18px) "
+msgstr "Inserisci una grandezza, per i titoli H4 (Ad esempio, 18px)"
+
+#: core/admin/customize/customize.php:833
+msgid "H5 headline"
+msgstr "Elementi H5"
+
+#: core/admin/customize/customize.php:834
+msgid "Insert a size, for for H5 elements (For example, 16px) "
+msgstr "Inserisci una grandezza, per i titoli H5 (Ad esempio, 16px)"
+
+#: core/admin/customize/customize.php:844
+msgid "H6 headline"
+msgstr "Elementi H6"
+
+#: core/admin/customize/customize.php:845
+msgid "Insert a size, for for H6 elements (For example, 14px) "
+msgstr "Inserisci una grandezza, per i titoli H6 (Ad esempio, 14px)"
+
+#: core/functions/function-widgets.php:9
+msgid "Sidebar"
+msgstr "Sidebars"
+
+#: core/functions/function-widgets.php:11
+msgid "This sidebar will be shown at the side of content."
+msgstr "Questa sidebar verrà visualizzata al lato del contenuto"
+
+#: core/functions/function-widgets.php:21 core/metaboxes/pages.php:95
+#: core/metaboxes/posts.php:109
+msgid "Scroll Sidebar"
+msgstr "Sidebar scorrevole"
+
+#: core/functions/function-widgets.php:23
+msgid "This sidebar will be shown under the scroll sidebar."
+msgstr ""
+"Questa barra laterale verrà mostrata all’interno della sidebar scorrevole."
+
+#: core/functions/function-widgets.php:33 core/metaboxes/pages.php:87
+#: core/metaboxes/posts.php:101
+msgid "Header Sidebar"
+msgstr "Sidebar per la testata"
+
+#: core/functions/function-widgets.php:35
+msgid "This sidebar will be shown before the content."
+msgstr "Questa barra laterale verrà mostrata prima del contenuto."
+
+#: core/functions/function-widgets.php:45 core/metaboxes/pages.php:103
+#: core/metaboxes/posts.php:117
+msgid "Bottom Sidebar"
+msgstr "Sidebar per la parte inferiore della pagina"
+
+#: core/functions/function-widgets.php:47
+msgid "This sidebar will be shown after the content."
+msgstr "Questa sidebar verrà visualizzata dopo il contenuto"
+
+#: core/functions/function-widgets.php:57 core/metaboxes/pages.php:111
+#: core/metaboxes/posts.php:125
+msgid "Footer Sidebar"
+msgstr "Sidebar per il piè di pagina"
+
+#: core/functions/function-widgets.php:59
+msgid "This sidebar will be shown at the end of your site."
+msgstr "Questa barra laterale verrà mostrata alla fine del tuo sito."
+
+#: core/includes/class-customize.php:34 core/includes/class-notice.php:62
+msgid "Upgrade to Jax Premium"
+msgstr "Aggiorna a Jax Premium"
+
+#: core/includes/class-customize.php:311
+msgid ""
+"If you've opened a new support ticket from <strong>WordPress.org</strong>, "
+"please send a reminder to <strong>support@wpinprogress.com</strong>, to get "
+"a faster reply."
+msgstr ""
+"Se hai aperto un nuovo ticket su <strong>WordPress.org</strong>, per favore "
+"invia un promemoria a <strong>support@wpinprogress.com</strong>, per "
+"ottenere rapidamente una risposta."
+
+#: core/includes/class-customize.php:315
+msgid "Open a new ticket"
+msgstr "Apri un nuovo ticket."
+
+#: core/includes/class-customize.php:316
+msgid "Send a reminder"
+msgstr "Invia un promemoria."
+
+#: core/includes/class-customize.php:321
+msgid ""
+"If you like this theme and support, <strong>I'd appreciate</strong> any of "
+"the following:"
+msgstr ""
+"Se ti piace il tema oppure il servizio di supporto, <strong>è gradita</"
+"strong> una delle seguenti azioni:"
+
+#: core/includes/class-customize.php:325
+msgid "Rate this Theme"
+msgstr "Valuta questo tema."
+
+#: core/includes/class-customize.php:326
+msgid "Like on Facebook"
+msgstr "Seguici su Facebook."
+
+#: core/includes/class-customize.php:327
+msgid "Subscribe our newsletter"
+msgstr "Registrati alla nostra newsletter."
+
+#: core/includes/class-metaboxes.php:185
+msgid "Upload"
+msgstr "Upload"
+
+#: core/includes/class-notice.php:58
+msgid ""
+"Upgrade to the premium version of Jax, to enable 600+ Google Fonts, "
+"Unlimited sidebars, Portfolio section and much more."
+msgstr ""
+"Aggiorna alla versione premium di Jax, per attivare oltre 600 Google Fonts, "
+"barre laterali illimitate, sezione Portfolio e molto altro."
+
+#: core/includes/class-notice.php:59
+#, php-format
+msgid "<a href=\"%1$s\" class=\"dismiss-notice\">Dismiss this notice</a>"
+msgstr "<a href=“%1$s” class=“dismiss-notice”>Nascondi questo avviso</a>"
+
+#: core/includes/class-plugin-activation.php:301
+msgid "Install Required Plugins"
+msgstr "Installa i plugins necessari."
+
+#: core/includes/class-plugin-activation.php:302
+msgid "Install Plugins"
+msgstr "Installa plugins"
+
+#: core/includes/class-plugin-activation.php:303
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installazione plugin: %s"
+
+#: core/includes/class-plugin-activation.php:304
+msgid "Something went wrong with the plugin API."
+msgstr "Qualcosa è andato storto con le API del plugin."
+
+#: core/includes/class-plugin-activation.php:365
+msgid "Return to Required Plugins Installer"
+msgstr "Ritorna all’installatore dei plugin richiesti."
+
+#: core/includes/class-plugin-activation.php:366
+msgid "Return to the dashboard"
+msgstr "Ritorna alla dashboard."
+
+#: core/includes/class-plugin-activation.php:367
+#: core/includes/class-plugin-activation.php:2959
+msgid "Plugin activated successfully."
+msgstr "Plugin attivato con successo."
+
+#: core/includes/class-plugin-activation.php:368
+msgid "The following plugin was activated successfully:"
+msgstr "Il seguente plugin è stato attivato con successo:"
+
+#: core/includes/class-plugin-activation.php:369
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Nessuna risposta. Il plugin %1$s era già stato attivato."
+
+#: core/includes/class-plugin-activation.php:370
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin non attivato. Una versione più recente di %s è richiesta per questo "
+"tema. Si prega di aggiornare il plugin."
+
+#: core/includes/class-plugin-activation.php:371
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tutti i plugins installati ed attivati con successo. %1$s"
+
+#: core/includes/class-plugin-activation.php:372
+msgid "Dismiss this notice"
+msgstr "Nascondi questo avviso"
+
+#: core/includes/class-plugin-activation.php:373
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+"Si prega di contattare l’amministratore di questo sito per richiedere "
+"assistenza."
+
+#: core/includes/class-plugin-activation.php:489
+msgid "Update Required"
+msgstr "Aggiornamento richiesto."
+
+#: core/includes/class-plugin-activation.php:604
+msgid "Set the parent_slug config variable instead."
+msgstr "Impostare invece la variabile di configurazione parent_slug."
+
+#: core/includes/class-plugin-activation.php:798
+#: core/includes/class-plugin-activation.php:3364
+msgid "Return to the Dashboard"
+msgstr "Ritorna alla dashboard."
+
+#: core/includes/class-plugin-activation.php:905
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Il pacchetto di plug-in remoto non contiene una cartella con lo slum "
+"desiderato ed il comando rinomina non ha funzionato."
+
+#: core/includes/class-plugin-activation.php:905
+#: core/includes/class-plugin-activation.php:908
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Si prega di contattare lo sviluppatore del plugin e richiedere di sviluppare "
+"il plugin seguendo le linee guida di WordPress."
+
+#: core/includes/class-plugin-activation.php:908
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Il pacchetto di plugin è costituito da più di un file, ma i file non sono "
+"confezionati in una cartella."
+
+#: core/includes/class-plugin-activation.php:1086
+#: core/includes/class-plugin-activation.php:2783
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: core/includes/class-plugin-activation.php:2122
+msgid "Required"
+msgstr "Richiesto"
+
+#: core/includes/class-plugin-activation.php:2125
+msgid "Recommended"
+msgstr "Raccomandato"
+
+#: core/includes/class-plugin-activation.php:2141
+msgid "WordPress Repository"
+msgstr "Repository WordPress"
+
+#: core/includes/class-plugin-activation.php:2144
+msgid "External Source"
+msgstr "Risorse esterne"
+
+#: core/includes/class-plugin-activation.php:2147
+msgid "Pre-Packaged"
+msgstr "Preconfezionato."
+
+#: core/includes/class-plugin-activation.php:2164
+msgid "Not Installed"
+msgstr "Non installato."
+
+#: core/includes/class-plugin-activation.php:2168
+msgid "Installed But Not Activated"
+msgstr "Tutti i plugins installati ed attivati con successo. %1$s"
+
+#: core/includes/class-plugin-activation.php:2170
+msgid "Active"
+msgstr "Attivo"
+
+#: core/includes/class-plugin-activation.php:2176
+msgid "Required Update not Available"
+msgstr "L’aggiornamento richiesto non è disponibile."
+
+#: core/includes/class-plugin-activation.php:2179
+msgid "Requires Update"
+msgstr "È richiesto l’aggiornamento."
+
+#: core/includes/class-plugin-activation.php:2182
+msgid "Update recommended"
+msgstr "Aggiornamento raccomandato"
+
+#: core/includes/class-plugin-activation.php:2334
+msgid "Installed version:"
+msgstr "Versione installata:"
+
+#: core/includes/class-plugin-activation.php:2342
+msgid "Minimum required version:"
+msgstr "Versione minima richiesta:"
+
+#: core/includes/class-plugin-activation.php:2354
+msgid "Available version:"
+msgstr "Versione disponibile"
+
+#: core/includes/class-plugin-activation.php:2377
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+"Nessun plugin da installare, aggiornare o attivare. <a href=\"%1$s\">Ritorna "
+"alla dashboard</a>"
+
+#: core/includes/class-plugin-activation.php:2391
+msgid "Plugin"
+msgstr "Plugin"
+
+#: core/includes/class-plugin-activation.php:2392
+msgid "Source"
+msgstr "Fonte"
+
+#: core/includes/class-plugin-activation.php:2393
+msgid "Type"
+msgstr "Tipo"
+
+#: core/includes/class-plugin-activation.php:2397
+msgid "Version"
+msgstr "Versione"
+
+#: core/includes/class-plugin-activation.php:2398
+msgid "Status"
+msgstr "Stato"
+
+#: core/includes/class-plugin-activation.php:2525
+msgid "Upgrade message from the plugin author:"
+msgstr "Messaggio di aggiornamento dall’autore del plugin:"
+
+#: core/includes/class-plugin-activation.php:2558
+msgid "Install"
+msgstr "Installa"
+
+#: core/includes/class-plugin-activation.php:2564
+msgid "Update"
+msgstr "Aggiornamento"
+
+#: core/includes/class-plugin-activation.php:2567
+msgid "Activate"
+msgstr "Attivare"
+
+#: core/includes/class-plugin-activation.php:2598
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Nessun plugin selezionato per essere installato. Nessuna risposta."
+
+#: core/includes/class-plugin-activation.php:2600
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Nessun plugin selezionato per essere aggiornato. Nessuna risposta."
+
+#: core/includes/class-plugin-activation.php:2636
+msgid "No plugins are available to be installed at this time."
+msgstr "Nessun plugin è disponibile per essere installato in questo momento."
+
+#: core/includes/class-plugin-activation.php:2638
+msgid "No plugins are available to be updated at this time."
+msgstr "Nessun plugin è disponibile per essere aggiornato in questo momento."
+
+#: core/includes/class-plugin-activation.php:2743
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Nessun plugin selezionato per essere attivato. Nessuna risposta."
+
+#: core/includes/class-plugin-activation.php:2769
+msgid "No plugins are available to be activated at this time."
+msgstr "Nessun plugin è disponibile per essere attivato in questo momento."
+
+#: core/includes/class-plugin-activation.php:2958
+msgid "Plugin activation failed."
+msgstr "Installazione plugin fallita."
+
+#: core/includes/class-plugin-activation.php:3288
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Aggiornamento plugin %1$s (%2$d/%3$d)"
+
+#: core/includes/class-plugin-activation.php:3290
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Si è verificato un errore durante l’installazione %1$s: <strong>%2$s</"
+"strong>."
+
+#: core/includes/class-plugin-activation.php:3291
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "L’installazione di %1$s è fallita."
+
+#: core/includes/class-plugin-activation.php:3295
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Il processo d’installazione ed attivazione è partito. Questo processo può "
+"richiedere del tempo su alcuni hosting, si prega di attendere."
+
+#: core/includes/class-plugin-activation.php:3296
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installato ed attivato con successo."
+
+#: core/includes/class-plugin-activation.php:3296
+#: core/includes/class-plugin-activation.php:3302
+msgid "Show Details"
+msgstr "Visualizza dettagli"
+
+#: core/includes/class-plugin-activation.php:3296
+#: core/includes/class-plugin-activation.php:3302
+msgid "Hide Details"
+msgstr "Nascondi dettagli"
+
+#: core/includes/class-plugin-activation.php:3297
+msgid "All installations and activations have been completed."
+msgstr "Tutte le installazioni e le attivazione sono state completate."
+
+#: core/includes/class-plugin-activation.php:3298
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installazione ed attivazione plugin %1$s (%2$d/%3$d)"
+
+#: core/includes/class-plugin-activation.php:3301
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Il processo d’installazione è partito. Questo processo può richiedere del "
+"tempo su alcuni hosting, si prega di attendere."
+
+#: core/includes/class-plugin-activation.php:3302
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: core/includes/class-plugin-activation.php:3303
+msgid "All installations have been completed."
+msgstr "Tutte le installazioni sono state completate."
+
+#: core/includes/class-plugin-activation.php:3304
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installazione plugin %1$s (%2$d/%3$d)"
+
+#: core/main.php:32
+#, php-format
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#: core/main.php:406
+#, php-format
+msgid "Category: %s"
+msgstr "Categoria: %s"
+
+#: core/main.php:408
+#, php-format
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#: core/main.php:410
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: core/main.php:412
+#, php-format
+msgid "Year: %s"
+msgstr "Anno: %s"
+
+#: core/main.php:412
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: core/main.php:414
+#, php-format
+msgid "Month: %s"
+msgstr "Mese: %s"
+
+#: core/main.php:414
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: core/main.php:416
+#, php-format
+msgid "Day: %s"
+msgstr "Giorno: %s"
+
+#: core/main.php:416
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: core/main.php:419
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: core/main.php:421
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Gallerie"
+
+#: core/main.php:423
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Immagini"
+
+#: core/main.php:425
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Video"
+
+#: core/main.php:427
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citazioni"
+
+#: core/main.php:429
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Links"
+
+#: core/main.php:431
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Stati"
+
+#: core/main.php:433
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: core/main.php:435
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chats"
+
+#: core/main.php:438
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#: core/main.php:441
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: core/main.php:761
+msgid "Read more"
+msgstr "Leggi tutto"
+
+#: core/main.php:780
+msgid "Read More"
+msgstr "Continua"
+
+#: core/main.php:905
+msgid "Default"
+msgstr "Default"
+
+#: core/metaboxes/pages.php:21 core/metaboxes/pages.php:34
+#: core/metaboxes/pages.php:83 core/metaboxes/posts.php:20
+#: core/metaboxes/posts.php:33
+msgid "Setting"
+msgstr "Impostazioni"
+
+#: core/metaboxes/pages.php:23 core/metaboxes/posts.php:22
+#: core/metaboxes/posts.php:97
+msgid "Sidebars"
+msgstr "Sidebars"
+
+#: core/metaboxes/pages.php:38 core/metaboxes/posts.php:37
+msgid "Template"
+msgstr "Template"
+
+#: core/metaboxes/pages.php:39 core/metaboxes/posts.php:38
+msgid "Choose a template for this post"
+msgstr "Scegli un template per quest'articolo."
+
+#: core/metaboxes/pages.php:64
+msgid "Insert the slogan, for this content."
+msgstr "Inserisci lo slogan, per questo contenuto."
+
+#: core/metaboxes/pages.php:69 core/metaboxes/posts.php:83
+msgid "Sub slogan"
+msgstr "Sotto slogan"
+
+#: core/metaboxes/pages.php:70
+msgid "Insert the subslogan, for this content."
+msgstr "Inserisci il sottoslogan, per questo contenuto."
+
+#: core/metaboxes/pages.php:88 core/metaboxes/posts.php:102
+msgid "Choose a header sidebar"
+msgstr "Scegli la barra laterale per la testata"
+
+#: core/metaboxes/pages.php:96 core/metaboxes/posts.php:110
+msgid "Choose a scroll sidebar"
+msgstr "Scegli una sidebar scorrevole."
+
+#: core/metaboxes/pages.php:104 core/metaboxes/posts.php:118
+msgid "Choose a bottom sidebar"
+msgstr "Scegli la barra laterale per la parte inferiore della pagina"
+
+#: core/metaboxes/pages.php:112 core/metaboxes/posts.php:126
+msgid "Choose a footer sidebar"
+msgstr "Scegli la barra laterale, per il piè di pagina"
+
+#: core/metaboxes/posts.php:51
+msgid "Post Info"
+msgstr "Informazioni articolo"
+
+#: core/metaboxes/posts.php:52
+msgid "Do you want to show the post informations, before the content?"
+msgstr "Vuoi visualizzare le informazioni dell'articolo?"
+
+#: core/metaboxes/posts.php:58
+msgid "Post Icons"
+msgstr "Icone degli articoli"
+
+#: core/metaboxes/posts.php:59
+msgid ""
+"Do you want to display the post icons, under the post informations section?"
+msgstr "Vuoi visualizzare le icone degli articoli?"
+
+#: core/metaboxes/posts.php:78
+msgid "Insert the slogan, for this post."
+msgstr "Inserisci lo slogan, per questo articolo."
+
+#: core/metaboxes/posts.php:84
+msgid "Insert the subslogan, for this post."
+msgstr "Inserisci il sottoslogan, per questo articolo."
+
+#: core/templates/masonry.php:49 layouts/home-blog.php:47
+msgid "No article found in this blog."
+msgstr "Nessun articolo trovato in questo blog"
+
+#: core/templates/slogan.php:38
+msgid "Search results for : "
+msgstr "Risultati della ricerca per : "
+
+#: layouts/archive-blog.php:47 layouts/search-blog.php:47
+msgid "No article found in this category."
+msgstr "Nessun articolo trovato in questa categoria"
+
+#: layouts/archive-blog.php:103 layouts/home-blog.php:103
+#: layouts/search-blog.php:103 sidebar.php:27
+msgid "Calendar"
+msgstr "Calendario"
+
+#: scroll-sidebar.php:43
+msgid "Copyright "
+msgstr "Copyright"
+
+#: scroll-sidebar.php:47
+msgid "Theme by"
+msgstr "Tema da"
+
+#: scroll-sidebar.php:52
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: scroll-sidebar.php:52
+#, php-format
+msgid "Proudly powered by %s"
+msgstr "Orgogliosamente offerto da %s"
+
+#~ msgid "Load system"
+#~ msgstr "Sistema di caricamento"
+
+#~ msgid "Choose a load system"
+#~ msgstr "Scegli un sistema di caricamento"
+
+#~ msgid ""
+#~ "Select a load system, if you've some problems with the theme (for example "
+#~ "a blank page)."
+#~ msgstr ""
+#~ "Scegli un sistema di caricamento, nel caso tu abbia problemi con il tema "
+#~ "(per esempio una pagina bianca)"
+
+#~ msgid "Mode a"
+#~ msgstr "Tipo a"
+
+#~ msgid "Mode b"
+#~ msgstr "Tipo b"
+
+#~ msgid "Login Area"
+#~ msgstr "Area Login"
+
+#~ msgid "Upload your custom logo.( Max 320px as width )"
+#~ msgstr "Carica il tuo logo personalizzato. (Max 320px come larghezza)"
+
+#~ msgid "Height"
+#~ msgstr "Altezza"
+
+#~ msgid "Insert the height of your custom logo."
+#~ msgstr "Inserisci l'altezza per il logo"
+
+#~ msgid "Insert the url of your custom logo.( Max 320px as width )"
+#~ msgstr "Carica una un logo personalizzato ( Massimo 320px di larghezza )"
+
+#~ msgid "Insert the url of your custom logo"
+#~ msgstr "Inserisci l'url del logo"
+
+#~ msgid "Custom Favicon"
+#~ msgstr "Favicon personalizzata."
+
+#~ msgid "Insert the url of your custom favicon."
+#~ msgstr "Inserisci l'url della favicon."
+
+#~ msgid "Choose a side sidebar"
+#~ msgstr "Scegli la barra laterale"
+
+#~ msgid "Theme Details"
+#~ msgstr "Dettagli Tema"
+
+#~ msgid "Current Theme: "
+#~ msgstr "Tema Corrente: "
+
+#~ msgid "Version "
+#~ msgstr "Versione"
+
+#~ msgid "Sidebar position"
+#~ msgstr "Posizione della Sidebar"
+
+#~ msgid "Sidebar name"
+#~ msgstr "Nome della Sidebar"
+
+#~ msgid "No sidebar yet"
+#~ msgstr "Nessuna sidebar presente"
+
+#~ msgid "Sidebar saved successfully."
+#~ msgstr "Sidebar salvata con successo."
+
+#~ msgid "Name missing sidebar."
+#~ msgstr "Inserisci il nome della sidebar."
+
+#~ msgid "Sidebar is already exist in the database."
+#~ msgstr "La sidebar è già presente nel database."
+
+#~ msgid "Fonts"
+#~ msgstr "Fonts"
+
+#~ msgid "Colors"
+#~ msgstr "Colori"
+
+#~ msgid "Slide Options"
+#~ msgstr "Opzioni Slide"
+
+#~ msgid "Skins"
+#~ msgstr "Stili"
+
+#~ msgid ""
+#~ "Choose a skin, the options will be charged in accordance with the chosen "
+#~ "style."
+#~ msgstr ""
+#~ "Scegli uno stile, le opzioni precedentemente salvate verranno "
+#~ "sovrascritte."
+
+#~ msgid "Main menu"
+#~ msgstr "Menù principale."
+
+#~ msgid ""
+#~ "Do you want to hide the main menu, under the scroll sidebar? (It's "
+#~ "possible use the menu widget, to display a different menu for each "
+#~ "content, with the same layout of the main menu.)"
+#~ msgstr ""
+#~ "Vuoi nascondere il menù principale, all'interno della sidebar scorrevole? "
+#~ "(Si può utilizzare il widget menu, per inserire un menù differente, per "
+#~ "ogni contenuto, mantenendo lo stesso stile del menù principale.)"
+
+#~ msgid ""
+#~ "Do you want to display the post info? (This is a general setting, it's "
+#~ "possible to change this value, of each content like posts or pages, from "
+#~ "the content settings, after the editor)"
+#~ msgstr ""
+#~ "Vuoi visualizzare le informazioni del post? (Questa è un'impostazione "
+#~ "generale, è possibile cambiare questo valore, per ogni contenuto, tramite "
+#~ "le impostazioni del contenuto, dopo l'editor)"
+
+#~ msgid "Social buttons"
+#~ msgstr "Pulsanti di condivizione"
+
+#~ msgid ""
+#~ "Do you want to view the social buttons after the content? (This is a "
+#~ "general setting, it's possible to change this value, of each content like "
+#~ "posts or pages, from the content settings, after the editor)"
+#~ msgstr ""
+#~ "Vuoi visualizzare i pulsanti di condivisione? (Questa è un'impostazione "
+#~ "generale, è possibile cambiare questo valore, per ogni contenuto, tramite "
+#~ "le impostazioni del contenuto, dopo l'editor)"
+
+#~ msgid "If you don't select a single page, select a layout for homepage"
+#~ msgstr "Se non hai impostato, come homepage, una pagina statica"
+
+#~ msgid "Masonry Two Columns"
+#~ msgstr "Masonry Due Colonne"
+
+#~ msgid "Masonry Three Columns"
+#~ msgstr "Masonry Tre Colonne"
+
+#~ msgid "Masonry Four Columns"
+#~ msgstr "Masonry Quattro Colonne"
+
+#~ msgid "Masonry Two Columns + Left Sidebar"
+#~ msgstr "Masonry Due Colonne + Sidebar a sinistra"
+
+#~ msgid "Masonry Two Columns + Right Sidebar"
+#~ msgstr "Masonry Due Colonne + Sidebar a destra"
+
+#~ msgid "Block 2 Columns"
+#~ msgstr "Blocchi 2 Colonne"
+
+#~ msgid "Block 3 Columns"
+#~ msgstr "Blocchi 3 Colonne"
+
+#~ msgid "Block 4 Columns"
+#~ msgstr "Blocchi 4 Colonne"
+
+#~ msgid "Block 2 Columns + Overlay"
+#~ msgstr "Blocchi 2 Colonne + Overlay"
+
+#~ msgid "Block 3 Columns + Overlay"
+#~ msgstr "Blocchi 3 Colonne + Overlay"
+
+#~ msgid "Block 4 Columns + Overlay"
+#~ msgstr "Blocchi 4 Colonne + Overlay"
+
+#~ msgid "Portfolio Style"
+#~ msgstr "Layout per il portfolio"
+
+#~ msgid "Choose a style for portfolio pages"
+#~ msgstr "Scegli uno stile, per le pagine del portfolio."
+
+#~ msgid "Grid"
+#~ msgstr "Griglia"
+
+#~ msgid "Block"
+#~ msgstr "Blocchi"
+
+#~ msgid "Block + Masonry"
+#~ msgstr "Masonry + Blocchi"
+
+#~ msgid "Portfolio Layout"
+#~ msgstr "Layout per il portfolio"
+
+#~ msgid "Choose a layout for portfolio pages"
+#~ msgstr "Scegli un layout, per le pagine del portfolio."
+
+#~ msgid "Two Columns"
+#~ msgstr "Due Colonne"
+
+#~ msgid "Three Columns"
+#~ msgstr "Tre Colonne"
+
+#~ msgid "Four Columns"
+#~ msgstr "Quattro Colonne"
+
+#~ msgid "Footer Sidebar layout"
+#~ msgstr "Layout della sidebar, nel piè di pagina."
+
+#~ msgid "Choose a layout for the footer sidebar area"
+#~ msgstr "Scegli un layout per i widgets a fondo pagina."
+
+#~ msgid "Insert the height for the thumbnails."
+#~ msgstr "Inserisci l'altezza per le miniature"
+
+#~ msgid "Upload Custom Logo"
+#~ msgstr "Carica un logo personalizzato"
+
+#~ msgid "General Header Layout"
+#~ msgstr "Impostazioni generali testata."
+
+#~ msgid ""
+#~ "Select the general header layout. (It's possible to change this setting "
+#~ "for each content like posts, pages and portfolio items)"
+#~ msgstr ""
+#~ "Scegli il layout principale della testata. (Sarà possibile scegliere un "
+#~ "differente layout per ogni contenuto, come post, pagine, elementi del "
+#~ "portfolio o categorie)"
+
+#~ msgid "Center logo and background"
+#~ msgstr "Logo centrale, più lo sfondo."
+
+#~ msgid "Center logo without background"
+#~ msgstr "Logo centrale, senza sfondo."
+
+#~ msgid "Logo at top left position with a center sitename and background"
+#~ msgstr ""
+#~ "Logo in alto a sinistra, con il nome del sito al centro e lo sfondo."
+
+#~ msgid "Center logo and sitename with background"
+#~ msgstr "Logo e nome del sito al centro, più lo sfondo."
+
+#~ msgid "Search Header Layout"
+#~ msgstr "Layout della testata, per la pagina di ricerca"
+
+#~ msgid "Choose a layout of search header"
+#~ msgstr "Scegli un layout, per la testata della pagina di ricerca."
+
+#~ msgid ""
+#~ "Logo at top left position with a center searched value and background"
+#~ msgstr ""
+#~ "Logo in alto a sinistra, con il valore cercato al centro, più lo sfondo."
+
+#~ msgid "Center logo and searched value with background"
+#~ msgstr "Logo e valore cercato al centro, più lo sfondo."
+
+#~ msgid "404 Header Layout"
+#~ msgstr "Layout della testata, per le pagine 404"
+
+#~ msgid "Choose a layout of 404 header"
+#~ msgstr "Scegli un layout per la pagina 404."
+
+#~ msgid "Do you want to upload an image as custom logo?"
+#~ msgstr "Vuoi caricare un logo personalizzato?"
+
+#~ msgid "Upload a custom logo"
+#~ msgstr "Carica una un logo personalizzato"
+
+#~ msgid "Upload a custom favicon"
+#~ msgstr "Carica una favicon personalizzata"
+
+#~ msgid ""
+#~ "Insert Skype ID (empty if you want to hide the button), you can add "
+#~ "<strong>'skype:'</strong>, after your ID (for example skype:alexvtn)"
+#~ msgstr ""
+#~ "Inserisci l'ID Skype (lascia il campo vuoto per non visualizzare il "
+#~ "pulsante), puoi aggiungere <strong>'skype:'</strong>, dopo il tuo ID (per "
+#~ "esempio skype:alexvtn)"
+
+#~ msgid ""
+#~ "Insert WhatsApp number (empty if you want to hide the button), you can "
+#~ "add <strong>'tel:</strong>', for start a call (for example tel:"
+#~ "+39333122333)"
+#~ msgstr ""
+#~ "Inserisci il numero WhatsApp (lascia il campo vuoto per non visualizzare "
+#~ "l'icona), puoi aggiungere <strong>'tel:'</strong>, per far partire una "
+#~ "chiamata (per esempio tel:+39333122333)"
+
+#~ msgid ""
+#~ "Insert Email Address (empty if you want to hide the button), you can add "
+#~ "<strong>'mailto:</strong>', after your email (for example mailto:"
+#~ "info@wpinprogress.com)"
+#~ msgstr ""
+#~ "Inserisci un indirizzo email (lascia il campo vuoto per non visualizzare "
+#~ "il pulsante), puoi aggiungere <strong>'mailto:'</strong>, dopo il tuo "
+#~ "indirizzo email (per esempio mailto:info@wpinprogress.com)"
+
+#~ msgid "Google analytics"
+#~ msgstr "Google analytics"
+
+#~ msgid "You can paste the google analytics code."
+#~ msgstr "Puoi inserire qui il tuo codice di Google Analytics"
+
+#~ msgid "Character sets"
+#~ msgstr "Set carattere"
+
+#~ msgid "Select one or more character sets."
+#~ msgstr "Seleziona uno o più set di caratteri."
+
+#~ msgid "Latin"
+#~ msgstr "Latin"
+
+#~ msgid "Latin Extended"
+#~ msgstr "Latin Extended"
+
+#~ msgid "Cyrillic"
+#~ msgstr "Cyrillic"
+
+#~ msgid "Cyrillic Extended"
+#~ msgstr "Cyrillic Extended"
+
+#~ msgid "Greek"
+#~ msgstr "Greek"
+
+#~ msgid "Greek Extended"
+#~ msgstr "Greek Extended"
+
+#~ msgid "Vietnamese"
+#~ msgstr "Vietnamese"
+
+#~ msgid "Choose a font for logo"
+#~ msgstr "Scegli un font per il logo."
+
+#~ msgid "Logo font size"
+#~ msgstr "Grandezza del font per il logo."
+
+#~ msgid "Choose a size for logo"
+#~ msgstr "Scegli una grandezza per il logo"
+
+#~ msgid "Slogan font"
+#~ msgstr "Font dello slogan"
+
+#~ msgid "Menu font"
+#~ msgstr "Font per il menu"
+
+#~ msgid "Choose a font for menu"
+#~ msgstr "Scegli un font per il menu."
+
+#~ msgid "Menu size"
+#~ msgstr "Grandezza del menu"
+
+#~ msgid "Choose a size for menu"
+#~ msgstr "Scegli una grandezza per il menu"
+
+#~ msgid "Choose a font for the content"
+#~ msgstr "Scegli un font per il contenuto."
+
+#~ msgid "Content size"
+#~ msgstr "Grandezza del contenuto"
+
+#~ msgid "Choose a size for the content"
+#~ msgstr "Scegli una grandezza per il contenuto"
+
+#~ msgid "Titles font"
+#~ msgstr "Font per i titoli"
+
+#~ msgid "Choose a font for titles"
+#~ msgstr "Scegli un font per i titoli."
+
+#~ msgid "Headline font sizes"
+#~ msgstr "Grandezza del font per i titoli"
+
+#~ msgid "Choose a size for H1 elements"
+#~ msgstr "Scegli una grandezza per gli elementi H1"
+
+#~ msgid "Choose a size for H2 elements"
+#~ msgstr "Scegli una grandezza per gli elementi H2"
+
+#~ msgid "Choose a size for H3 elements"
+#~ msgstr "Scegli una grandezza per gli elementi H3"
+
+#~ msgid "Choose a size for H4 elements"
+#~ msgstr "Scegli una grandezza per gli elementi H4"
+
+#~ msgid "Choose a size for H5 elements"
+#~ msgstr "Scegli una grandezza per gli elementi H5"
+
+#~ msgid "Choose a size for H6 elements"
+#~ msgstr "Scegli una grandezza per gli elementi H6"
+
+#~ msgid "General colors"
+#~ msgstr "Colori generali"
+
+#~ msgid "Text color"
+#~ msgstr "Colore del testo."
+
+#~ msgid "Choose a color for general text"
+#~ msgstr "Scegli un colore generale, per il testo."
+
+#~ msgid "Link color"
+#~ msgstr "Colore link"
+
+#~ msgid "Choose a color for link"
+#~ msgstr "Scegli un colore per i link"
+
+#~ msgid "Link color hover"
+#~ msgstr "Colore link al passaggio del mouse"
+
+#~ msgid "Choose a color for link hover"
+#~ msgstr "Scegli un colore per i link, al passaggio del mouse"
+
+#~ msgid "Background color"
+#~ msgstr "Colore di sfondo"
+
+#~ msgid "Choose a color for the background"
+#~ msgstr "Scegli un colore di sfondo"
+
+#~ msgid "Choose a color for the borders"
+#~ msgstr "Scegli un colore per i bordi"
+
+#~ msgid "Borders color"
+#~ msgstr "Colore dei bordi"
+
+#~ msgid "Nivo Slider Settings"
+#~ msgstr "Impostazioni Nivo Slider"
+
+#~ msgid "Effect"
+#~ msgstr "Effetto"
+
+#~ msgid "Specify sets like: fold,fade,sliceDown,random..."
+#~ msgstr "Imposta un effetto, come fold,fade,sliceDown,random..."
+
+#~ msgid "Animation Speed"
+#~ msgstr "Velocità dell'animazione"
+
+#~ msgid "Slide transition speed, in milliseconds."
+#~ msgstr "Velocità di transizione della slide, in millisecondi."
+
+#~ msgid "Pause Time"
+#~ msgstr "Tempo di pausa"
+
+#~ msgid "How long each slide will show, in milliseconds."
+#~ msgstr ""
+#~ "Inserisci quanto a lungo deve essere visualizzata la slide, in "
+#~ "millisecondi."
+
+#~ msgid "bxSlider Settings"
+#~ msgstr "Impostazioni bxSlider"
+
+#~ msgid "Specify sets like: fade or slide"
+#~ msgstr "Imposta un effetto, tra fade e slide"
+
+#~ msgid "Slideshow Speed"
+#~ msgstr "Velocità della slideshow"
+
+#~ msgid "Set the speed of the slideshow cycling, in milliseconds."
+#~ msgstr ""
+#~ "Inserisci quanto a lungo deve essere visualizzata la slide, in "
+#~ "millisecondi."
+
+#~ msgid "New Sidebar"
+#~ msgstr "Nuova Sidebar"
+
+#~ msgid "Sidebar Name"
+#~ msgstr "Nome della Sidebar"
+
+#~ msgid "Sidebar Position."
+#~ msgstr "Posizione della Sidebar"
+
+#~ msgid "Edit a sidebar"
+#~ msgstr "Modifica una sidebar"
+
+#~ msgid "Jax Options"
+#~ msgstr "Opzioni Jax"
+
+#~ msgid "Options saved successfully."
+#~ msgstr "Opzioni salvate con successo."
+
+#~ msgid "Sidebar deleted successfully."
+#~ msgstr "Sidebar eliminata con successo"
+
+#~ msgid "Edit "
+#~ msgstr "Modifica"
+
+#~ msgid "New "
+#~ msgstr "Nuovo"
+
+#~ msgid "View "
+#~ msgstr "Visualizza"
+
+#~ msgid "Search "
+#~ msgstr "Cerca"
+
+#~ msgid "No "
+#~ msgstr "No"
+
+#~ msgid "category-project"
+#~ msgstr "category-project"
+
+#~ msgid "Archives"
+#~ msgstr "Archivi"
+
+#~ msgid "Page Formats"
+#~ msgstr "Formati pagine"
+
+#~ msgid "Content type"
+#~ msgstr "Tipo di contenuto"
+
+#~ msgid "Choose the content type for this page"
+#~ msgstr "Scegli un tipo di contenuto, per questa pagina"
+
+#~ msgid "Gallery"
+#~ msgstr "Galleria"
+
+#~ msgid "Maps"
+#~ msgstr "Maps"
+
+#~ msgid "Video"
+#~ msgstr "Video"
+
+#~ msgid "Social Buttons"
+#~ msgstr "Pulsanti di condivizione"
+
+#~ msgid "Do you want to view the social buttons after the content?"
+#~ msgstr "Vuoi visualizzare i pulsanti di condivisione dopo gli articoli?"
+
+#~ msgid "Header Layout"
+#~ msgstr "Layout della testata"
+
+#~ msgid "Choose a header layoout, for this content."
+#~ msgstr "Scegli un layout della testata, per questo contenuto."
+
+#~ msgid "Center logo"
+#~ msgstr "Logo centrale"
+
+#~ msgid "Logo at top left position with a center slogan and background"
+#~ msgstr "Logo in alto a sinistra, con uno slogan centrale, più lo sfondo."
+
+#~ msgid "Center logo with slogan and background"
+#~ msgstr "Logo e slogan centrale, più lo sfondo"
+
+#~ msgid ""
+#~ "Logo at top left position with a center title as slogan and background"
+#~ msgstr ""
+#~ "Logo in alto a sinistra, con un titolo centrale come slogan, più lo "
+#~ "sfondo."
+
+#~ msgid "Center logo with a center title as slogan and background"
+#~ msgstr "Logo e titolo centrale, più lo sfondo."
+
+#~ msgid "Header Image"
+#~ msgstr "Immagine della testata"
+
+#~ msgid "Upload an image for header background."
+#~ msgstr "Carica una'immagine come sfondo della testata."
+
+#~ msgid "Header Logo"
+#~ msgstr "Logo"
+
+#~ msgid "Upload a logo for header section."
+#~ msgstr "Carica un logo, per la testata."
+
+#~ msgid "Body background"
+#~ msgstr "Sfondo principale"
+
+#~ msgid "Choose a color for the body background"
+#~ msgstr "Scegli un colore per lo sfondo della pagina"
+
+#~ msgid "Header background"
+#~ msgstr "Sfondo della testata"
+
+#~ msgid "Choose a color for the header background"
+#~ msgstr "Scegli un colore per lo sfondo della testata"
+
+#~ msgid "Choose a color for the header text"
+#~ msgstr "Scegli un colore per il testo della testata"
+
+#~ msgid "Choose a color for the header text, on mouseover."
+#~ msgstr ""
+#~ "Scegli un colore per il testo della testata, al passaggio del mouse."
+
+#~ msgid "Gallery type"
+#~ msgstr "Galleria"
+
+#~ msgid "Select one of these slideshows"
+#~ msgstr "Scegli un tipo di slideshow."
+
+#~ msgid "Add a new photo"
+#~ msgstr "Aggiungi una nuova foto"
+
+#~ msgid "Crea Gallery"
+#~ msgstr "Galleria"
+
+#~ msgid "Upload the images for gallery"
+#~ msgstr "Carica una'immagine come sfondo principale"
+
+#~ msgid "Video Services"
+#~ msgstr "Servizio Video"
+
+#~ msgid "Select one of this video services"
+#~ msgstr "Scegli uno di questi servizi video."
+
+#~ msgid "ID Services"
+#~ msgstr "ID del servizio"
+
+#~ msgid "Insert the ID of Youtube or Vimeo Video"
+#~ msgstr "Inserisci l'ID del video di Youtube oppure di Vimeo."
+
+#~ msgid "Google Maps"
+#~ msgstr "Google maps"
+
+#~ msgid "Address"
+#~ msgstr "Indirizzo"
+
+#~ msgid "Insert the address for Google maps"
+#~ msgstr "Inserisci l'indirizzo della pagina dei contatti"
+
+#~ msgid "Choose the content type for this portfolio item"
+#~ msgstr "Scegli il tipo di contenuto, per questo elemento del portfolio"
+
+#~ msgid "Client"
+#~ msgstr "Cliente"
+
+#~ msgid "Insert the client of this portfolio item"
+#~ msgstr "Inserisci il cliente di questo elemento del portfolio."
+
+#~ msgid "Url"
+#~ msgstr "Url"
+
+#~ msgid "Insert the url of this portfolio item"
+#~ msgstr "Inserisci l'url di questo elemento del portfolio."
+
+#~ msgid "Do you want to view the post informations, before the content?"
+#~ msgstr "Vuoi visualizzare le informazioni dell'articolo?"
+
+#~ msgid "Choose a header layoout, for this portfolio item."
+#~ msgstr "Scegli un layout, per la testata di questo elemento del portfolio."
+
+#~ msgid "Insert the slogan, for this portfolio item."
+#~ msgstr "Inserisci lo slogan, per questo elemento del portfolio."
+
+#~ msgid "Insert the subslogan, for this portfolio item."
+#~ msgstr "Inserisci il sottoslogan, per questo elemento del portfolio."
+
+#~ msgid "Create Gallery"
+#~ msgstr "Crea Galleria"
+
+#~ msgid "Post Formats"
+#~ msgstr "Formati post."
+
+#~ msgid "Do you want to show the social buttons after the content?"
+#~ msgstr "Vuoi visualizzare i pulsanti di condivisione dopo gli articoli?"
+
+#~ msgid "Choose a header layoout, for this post."
+#~ msgstr "Scegli un layout, per la testata di quest'articolo."
+
+#~ msgid "Gallery Options"
+#~ msgstr "Opzioni Galleria"
+
+#~ msgid "Quote Options"
+#~ msgstr "Opzioni Citazione"
+
+#~ msgid "Quote"
+#~ msgstr "Citazione"
+
+#~ msgid "Insert the text of quote"
+#~ msgstr "Inserisci il testo della citazione"
+
+#~ msgid "Author"
+#~ msgstr "Autore"
+
+#~ msgid "Insert the author of quote"
+#~ msgstr "Inserisci l'autore della citazione."
+
+#~ msgid "Video Options"
+#~ msgstr "Opzioni Video"
+
+#~ msgid "Audio Options"
+#~ msgstr "Opzioni Audio"
+
+#~ msgid "Soundcloud"
+#~ msgstr "Soundcloud"
+
+#~ msgid "Link Options"
+#~ msgstr "Opzioni Link"
+
+#~ msgid "Name of url"
+#~ msgstr "Nome dell'url."
+
+#~ msgid "Insert the name of your link"
+#~ msgstr "Inserisci il nome del tuo link"
+
+#~ msgid "Link"
+#~ msgstr "Link"
+
+#~ msgid "Insert the link with http, for example http://www.wpinprogress.com"
+#~ msgstr ""
+#~ "Inserisci l'url completo di http://, per esempio http://www.wpinprogress."
+#~ "com"
+
+#~ msgid "Choose a header layout, for this category."
+#~ msgstr "Scegli un layout della testata, per questa categoria."
+
+#~ msgid "Logo at top left position with a center category name and background"
+#~ msgstr ""
+#~ "Logo in alto a sinistra, con il nome della categoria al centro, più lo "
+#~ "sfondo."
+
+#~ msgid "Center logo and category name with background"
+#~ msgstr "Logo e nome della categoria al centro, più lo sfondo"
+
+#~ msgid "Upload an image for header background"
+#~ msgstr "Carica una'immagine come sfondo della testata."
+
+#~ msgid "Post link"
+#~ msgstr "Post link"
+
+#~ msgid "Your Name"
+#~ msgstr "Il tuo nome"
+
+#~ msgid "Your Email"
+#~ msgstr "La tua email"
+
+#~ msgid "Email Object"
+#~ msgstr "Oggetto dell'email"
+
+#~ msgid "Send messagge"
+#~ msgstr "Invia Messaggio"
+
+#~ msgid "Error trying to send email, please check the data entered."
+#~ msgstr ""
+#~ "Errore nell'invio dell'email, per favore ricontrolla i dati inseriti"
+
+#~ msgid "Message sent successfully."
+#~ msgstr "Messaggio inviato con successo"
+
+#~ msgid "Open"
+#~ msgstr "Apri"
+
+#~ msgid "View projects "
+#~ msgstr "Visualizza progetti"
+
+#~ msgid "Author name"
+#~ msgstr "Nome dell'autore"
+
+#~ msgid "Author biography"
+#~ msgstr "Biografia dell'autore"
+
+#~ msgid "Thumbnail"
+#~ msgstr "Miniatura"
+
+#~ msgid "Thumbnail hover"
+#~ msgstr "Miniatura al passaggio del mouse"
+
+#~ msgid "Background"
+#~ msgstr "Sfondo"
+
+#~ msgid "Thumbnail Width"
+#~ msgstr "Larghezza della miniatura"
+
+#~ msgid "Background Height"
+#~ msgstr "Altezza dello sfondo"
+
+#~ msgid "Title"
+#~ msgstr "Titolo"
+
+#~ msgid "Email"
+#~ msgstr "E-mail"
+
+#~ msgid "Phone"
+#~ msgstr "Telefono"
+
+#~ msgid "Mobile"
+#~ msgstr "Cellulare"
+
+#~ msgid "Fax"
+#~ msgstr "Fax"
+
+#~ msgid "Skype"
+#~ msgstr "Skype"
+
+#~ msgid "Newsletter text"
+#~ msgstr "Testo della newsletter"
+
+#~ msgid "Signup Url"
+#~ msgstr "Url iscrizione"
+
+#~ msgid "Your name"
+#~ msgstr "Il tuo nome"
+
+#~ msgid "Your email"
+#~ msgstr "La tua email"
+
+#~ msgid "Sign Up"
+#~ msgstr "Iscriviti"
+
+#~ msgid "Display the counts?"
+#~ msgstr "Visualizzare il conteggio?"
+
+#~ msgid "Sorry, no posts found"
+#~ msgstr "Spiacenti, nessun articolo trovato."
+
+#~ msgid "Not found"
+#~ msgstr "Contenuto mancante"
+
+#~ msgid "Sorry, no items matched into "
+#~ msgstr "Spiacente, nessun articolo trovato in "
+
+#~ msgid "<span>Search </span> results for : "
+#~ msgstr "<span>Risultati </span> della ricerca per : "
+
+#~ msgid "Jax Settings"
+#~ msgstr " Impostazioni Jax"
+
+#~ msgid " Settings"
+#~ msgstr " Impostazioni"
+
+#~ msgid "Choose a template for this page"
+#~ msgstr "Scegli un template per questa pagina"
+
+#~ msgid "Choose a template for this portfolio item"
+#~ msgstr "Scegli un template per questo elemento del portfolio"
+
+#~ msgid "Category Header Layout"
+#~ msgstr "Layout della testata, per le categorie"
+
+#~ msgid "Choose a layout of category header"
+#~ msgstr "Scegli un layout, per la testata delle categorie."
+
+#~ msgid "Header image"
+#~ msgstr "Immagine della testata"
+
+#~ msgid "Tag"
+#~ msgstr "Tag"
+
+#~ msgid "Category"
+#~ msgstr "Categoria"
+
+#~ msgid "COMMENTS"
+#~ msgstr "COMMENTI"
+
+#~ msgid "Backgrounds"
+#~ msgstr "Sfondi"
+
+#~ msgid "You want to use the preload system?"
+#~ msgstr "Vuoi utilizzare il sistema di precaricamento, per le pagine?"
+
+#~ msgid "Preload skin"
+#~ msgstr "Stile del sistema di precaricamento"
+
+#~ msgid "Select a skin for the preload."
+#~ msgstr "Seleziona uno stile per il sistema di precaricamento"
+
+#~ msgid "Dark"
+#~ msgstr "Scuro"
+
+#~ msgid "Choose the character sets you want:"
+#~ msgstr "Scegli un set di caratteri"
+
+#~ msgid "Default pattern background"
+#~ msgstr "Pattern di default per lo sfondo"
+
+#~ msgid "Select a pattern for body background."
+#~ msgstr "Seleziona un pattern per lo sfondo principale."
+
+#~ msgid "Full background image"
+#~ msgstr "Immagine di sfondo a piena pagina"
+
+#~ msgid "Search here"
+#~ msgstr "Cerca"
+
+#~ msgid "Please, load one or more gallery items."
+#~ msgstr "Per favore, carica uno o più elementi."
+
+#~ msgid "Flex Slider settings"
+#~ msgstr "Impostazioni Flex Slider "
+
+#~ msgid "Direction"
+#~ msgstr "Direzione"
+
+#~ msgid ""
+#~ "Select the sliding direction, horizontal or vertical (Only slide effect)"
+#~ msgstr ""
+#~ "Seleziona la direzione della slide, orizzontale o verticale (Solo per "
+#~ "l'effetto slide)"
+
+#~ msgid "Reverse"
+#~ msgstr "Inverti"
+
+#~ msgid "Reverse the animation direction"
+#~ msgstr "Inverti la direzione dell'animazione (Solo per l'effetto slide)"
+
+#~ msgid "Set the speed of animations, in milliseconds."
+#~ msgstr "Velocità di transizione della slide, in millisecondi."
+
+#~ msgid "General Settings"
+#~ msgstr "Impostazioni Generali"
+
+#~ msgid "Layout"
+#~ msgstr "Layout"
+
+#~ msgid "Select the menu"
+#~ msgstr "Seleziona il menu."
+
+#~ msgid "Exclude"
+#~ msgstr "Escludi"
+
+#~ msgid "ID of pages, separated by commas"
+#~ msgstr "ID delle pagine, separate da virgola"
+
+#~ msgid "Consumer Key"
+#~ msgstr "Consumer Key"
+
+#~ msgid "Consumer Secret"
+#~ msgstr "Consumer Secret"
+
+#~ msgid "Token"
+#~ msgstr "Token"
+
+#~ msgid "Token Secret"
+#~ msgstr "Token Secret"
+
+#~ msgid "Twitter Account"
+#~ msgstr "Account Twitter"
+
+#~ msgid "Numbers of tweets to display"
+#~ msgstr "Numero di tweet da visualizzare"
+
+#~ msgid "Diarjo Options"
+#~ msgstr "Opzioni Diarjo"
+
+#~ msgid "Light & Turquoise"
+#~ msgstr "Chiaro e Turchese"
+
+#~ msgid "Light & Orange"
+#~ msgstr "Chiaro e Arancione"
+
+#~ msgid "Light & Blue"
+#~ msgstr "Chiaro e Blu"
+
+#~ msgid "Light & Red"
+#~ msgstr "Chiaro e Rosso"
+
+#~ msgid "Light & Purple"
+#~ msgstr "Chiaro e Viola"
+
+#~ msgid "Light & Yellow"
+#~ msgstr "Chiaro e Giallo"
+
+#~ msgid "Light & Green"
+#~ msgstr "Chiaro e Verde"
+
+#~ msgid "Menu type"
+#~ msgstr "Tipo di menu"
+
+#~ msgid "Select a layout for the menu."
+#~ msgstr "Seleziona un layout per il menu."
+
+#~ msgid "No Margin"
+#~ msgstr "Nessun margine"
+
+#~ msgid "Before the content"
+#~ msgstr "Prima del contenuto"
+
+#~ msgid "After the content"
+#~ msgstr "Dopo il contenuto"
+
+#~ msgid "Portfolio Thumbnail"
+#~ msgstr "Miniatura per il portfolio"
+
+#~ msgid "Select a background color for the custom widgets"
+#~ msgstr "Seleziona un colore di sfondo per i custom widgets"
+
+#~ msgid "Widget text color"
+#~ msgstr "Colore del testo per i widgets"
+
+#~ msgid "Select a text color for the custom widgets"
+#~ msgstr "Seleziona un colore per il testo dei widgets"
+
+#~ msgid "Widget borders"
+#~ msgstr "Bordo dei widgets"
+
+#~ msgid "Select a border color for the custom widgets"
+#~ msgstr "Seleziona un colore per i bordi dei custom widgets"
+
+#~ msgid "On "
+#~ msgstr " "
+
+#~ msgid " by "
+#~ msgstr " da "
+
+#~ msgid "Check the typed term"
+#~ msgstr "Controlla il termine digitato"
+
+#~ msgid "Make a new search, from the below form:"
+#~ msgstr "Effettua una nuova ricerca, dal seguente form"
+
+#~ msgid "Grid style"
+#~ msgstr "Grid style"
+
+#~ msgid "Header, Sidebar and Footer"
+#~ msgstr "Testata, barra laterale e footer"
+
+#~ msgid "Google maps"
+#~ msgstr "Google maps"
+
+#~ msgid "View direction nav"
+#~ msgstr "Visualizzazione dei pulsanti di direzione."
+
+#~ msgid "Views the direction nav?"
+#~ msgstr "Visualizzare i pulsanti di direzione?"
+
+#~ msgid "View control nav"
+#~ msgstr "Visualizzazione dei pulsanti di controllo."
+
+#~ msgid "Views the control nav?"
+#~ msgstr "Visualizzare i pulsanti di controllo?"
+
+#~ msgid "Sorry, no posts matched your criteria"
+#~ msgstr ""
+#~ "Spiacente, nessun articolo risponde ai criteri di ricerca impostati."
+
+#~ msgid "No comments"
+#~ msgstr "Nessun commento"
+
+#~ msgid "comment"
+#~ msgstr "commento"
+
+#~ msgid "comments"
+#~ msgstr "commenti"
+
+#~ msgid "Comment"
+#~ msgstr "Commenta"
+
+#~ msgid "Not Found"
+#~ msgstr "Contenuto non trovato"
+
+#~ msgid "You can repeat your search with the following form."
+#~ msgstr "Puoi ripetere la tua ricerca tramite questo form"
+
+#~ msgid "Project"
+#~ msgstr "Progetto"
+
+#~ msgid "Select the layout for header sidebar area"
+#~ msgstr "Seleziona un layout per i widgets della testata."
+
+#~ msgid "One Column"
+#~ msgstr "Una colonna"
+
+#~ msgid "Bottom Sidebar Area Layout"
+#~ msgstr "Layout della Sidebar per la parte inferiore della pagina"
+
+#~ msgid "Header colors"
+#~ msgstr "Colore per la testata"
+
+#~ msgid "Select a color for the logo and menu of header"
+#~ msgstr "Seleziona un colore per il logo e menu della testata."
+
+#~ msgid "Subheader"
+#~ msgstr "Sotto testata "
+
+#~ msgid "Select a color for the subheader text"
+#~ msgstr "Seleziona un colore per il testo del sub header."
+
+#~ msgid "Bottom colors"
+#~ msgstr "Colore per la parte inferiore della pagina"
+
+#~ msgid "Select a color for the text of bottom"
+#~ msgstr "Seleziona un colore per il testo a fondo pagina."
+
+#~ msgid "Social icons"
+#~ msgstr "Icone dei Social"
+
+#~ msgid "Select a color for the social icons"
+#~ msgstr "Seleziona un colore per le icone dei Social"
+
+#~ msgid "Social icons hover"
+#~ msgstr "Icone dei Social al passaggio del mouse"
+
+#~ msgid "Select a color for the social icons hover"
+#~ msgstr "Seleziona un colore per le icone dei Social al passaggio del mouse"
+
+#~ msgid "Copyright color"
+#~ msgstr "Colore per il copyright"
+
+#~ msgid "Color"
+#~ msgstr "Colore"
+
+#~ msgid "Select a color for body background."
+#~ msgstr "Seleziona un colore come sfondo principale."
+
+#~ msgid "Upload a image for body background."
+#~ msgstr "Carica una'immagine come sfondo principale"
+
+#~ msgid "No repeat"
+#~ msgstr "Nessuna ripetizione"
+
+#~ msgid "Repeat orizzontal"
+#~ msgstr "Ripeti orizzontalmente"
+
+#~ msgid "Repeat vertical"
+#~ msgstr "Ripeti verticalmente"
+
+#~ msgid "Subheader color"
+#~ msgstr "Colore di sfondo per la sotto testata "
+
+#~ msgid "Select a color for subheader background."
+#~ msgstr "Seleziona un colore per il testo della sotto testata."
+
+#~ msgid "Bottom Background"
+#~ msgstr "Sfondo per la parte inferiore della pagina"
+
+#~ msgid "Select a color for bottom background."
+#~ msgstr "Seleziona un colore di sfondo per la parte inferiore della pagina"
+
+#~ msgid "Social box"
+#~ msgstr "Sezione dei Social"
+
+#~ msgid "Select a color for social box background."
+#~ msgstr "Seleziona un colore per la sezione dei Social."
+
+#~ msgid "Select a color for footer background."
+#~ msgstr "Seleziona un colore di sfondo per il footer."
+
+#~ msgid "Select a color for bottom borders."
+#~ msgstr "Seleziona il colore dei bordi per la parte inferiore della pagina."
+
+#~ msgid "SEO"
+#~ msgstr "SEO"
+
+#~ msgid "Contact Page"
+#~ msgstr "Pagina Contatti"
+
+#~ msgid "Metatag Title"
+#~ msgstr "Metatag Title"
+
+#~ msgid "Insert the metatag title of page, use a maximum of 60 chars"
+#~ msgstr ""
+#~ "Inserisci il metatag title della pagina, utilizzando un massimo di 60 "
+#~ "caratteri."
+
+#~ msgid "Insert the metatag description of page, use a maximum of 160 chars"
+#~ msgstr ""
+#~ "Inserisci il metatag description della pagina, utilizzando un massimo di "
+#~ "160 caratteri."
+
+#~ msgid "Keywords"
+#~ msgstr "Parole chiave"
+
+#~ msgid "Insert the keywords separated by comma"
+#~ msgstr "Inserisci le parole chiave, separate da una virgola"
+
+#~ msgid "Contact Page Options"
+#~ msgstr "Opzioni pagina contatti"
+
+#~ msgid "Work's url."
+#~ msgstr "Url del lavoro."
+
+#~ msgid "Skills"
+#~ msgstr "Skills"
+
+#~ msgid "Insert the skills"
+#~ msgstr "Inserisci le skills"
+
+#~ msgid "Created on:"
+#~ msgstr "Creato il"
+
+#~ msgid "Send"
+#~ msgstr "Invia"
+
+#~ msgid "Comments: "
+#~ msgstr "Commenti: "
+
+#~ msgid "Categories: "
+#~ msgstr "Categorie: "
+
+#~ msgid "en_EN"
+#~ msgstr "it_IT"
+
+#~ msgid "en"
+#~ msgstr "it"
+
+#~ msgid "Your Facebook page"
+#~ msgstr "La tua pagina Facebook"
+
+#~ msgid "Show Faces"
+#~ msgstr "Visualizza profili"
+
+#~ msgid "Show Stream"
+#~ msgstr "Visualizza attività"
+
+#~ msgid "Show Border"
+#~ msgstr "Visualizza bordo"
+
+#~ msgid "Show Header"
+#~ msgstr "Visualizza Testata"
+
+#~ msgid "Language"
+#~ msgstr "Lingua"
+
+#~ msgid ""
+#~ "Numbers of elements to display ( Insert 'All' to display all elements) "
+#~ msgstr ""
+#~ "Numero di elementi da visualizzare (Inserire 'All' per visualizzare tutti "
+#~ "gli elementi)"
+
+#~ msgid "Post type"
+#~ msgstr "Tipo di post"
+
+#~ msgid "Size"
+#~ msgstr "Dimensione"
+
+#~ msgid "Image"
+#~ msgstr "Immagine"
+
+#, fuzzy
+#~ msgid "Numbers of news to display"
+#~ msgstr "Numero di tweet da visualizzare"
+
+#~ msgid "Avaiable Features"
+#~ msgstr "Funzionalità disponibili"
+
+#~ msgid ""
+#~ "Now Sueva is 100% compatible with the GNU license, these are some "
+#~ "features that you can include in Sueva theme, not present in the package "
+#~ "because with them, is not possible make Sueva 100% compatible with the "
+#~ "GNU license."
+#~ msgstr ""
+#~ "Ora Sueva è compatibile al 100% con la licenza GNU, queste sono alcune "
+#~ "funzionalità che puoi aggiungere a Sueva, non presenti nell'archivio "
+#~ "poichè con essi non sarebbe stato possibile rendere Sueva compatibile al "
+#~ "100% con la licenza GNU"
+
+#~ msgid ""
+#~ "You can download the features from <a href=\"http://wpinprogress.com/get-"
+#~ "features/\" target=\"_blank\">www.wpinprogress.com/get-features/</a>, "
+#~ "with the username and password that you have received after the payment."
+#~ msgstr ""
+#~ "Puoi scaricare le funzionalità da <a href=\"http://wpinprogress.com/get-"
+#~ "features/\" target=\"_blank\">www.wpinprogress.com/get-features/</a>, con "
+#~ "l'username e la password ricevute dopo il pagamento"
+
+#~ msgid "1) Patterns."
+#~ msgstr "1) Patterns."
+
+#~ msgid "You can integrate these patterns in this way:."
+#~ msgstr "Puoi integrare questi pattern in questo modo."
+
+#~ msgid "Download your pattern."
+#~ msgstr "Scarica il tuo pattern."
+
+#~ msgid "Extract the archive."
+#~ msgstr "Estrai l'archivio."
+
+#~ msgid "Import the pattern from option panel, like custom background."
+#~ msgstr ""
+#~ "Importa il pattern dal pannello delle opzioni del tema, come sfondo "
+#~ "personalizzato."
+
+#~ msgid "2) Masonry layout for filtrable portfolio."
+#~ msgstr "2) Layout Masonry per il portfolio filtrabile."
+
+#~ msgid ""
+#~ "Download and extract the archive, from <a href=\"http://wpinprogress.com/"
+#~ "get-features/\" target=\"_blank\">www.wpinprogress.com/get-features/</a>"
+#~ msgstr ""
+#~ "Scarica ed estrai l'archivio, da <a href=\"http://wpinprogress.com/get-"
+#~ "features/\" target=\"_blank\">www.wpinprogress.com/get-features/</a>"
+
+#~ msgid ""
+#~ "Extract the archive nova.zip and, with FTP client, upload the folder "
+#~ "called \"nova\" into <strong>wp-content/themes/</strong>."
+#~ msgstr ""
+#~ "Estrai l'archivio nova.zip e, con un client FTP carica la cartella "
+#~ "chiamata \"nova\" all'interno di <strong>wp-content/themes/</strong>."
+
+#~ msgid ""
+#~ "Isotope plugin is released with MIT license, for non-commercial, "
+#~ "personal, or open source projects and applications."
+#~ msgstr ""
+#~ "Il plugin Isotope è rilasciato sotto licensa MIT, per progetti ed "
+#~ "applicazioni non commerciali, open source o personali."
+
+#~ msgid ""
+#~ "For any available update for Sueva, will be necessary repeat this "
+#~ "procedure."
+#~ msgstr ""
+#~ "Per ogni aggiornamento di Sueva, sarà necessario ripetere questa "
+#~ "operazione."
+
+#~ msgid "Skill"
+#~ msgstr "Skill"
+
+#~ msgid "Slide Thumbinal"
+#~ msgstr "Miniatura per le slide"
+
+#~ msgid "Cyan"
+#~ msgstr "Ciano"
+
+#~ msgid "Myspace Url"
+#~ msgstr "Url Myspace"
+
+#~ msgid "Insert Myspace Url (empty if you want to hide the button)"
+#~ msgstr ""
+#~ "Inserisci l'url di Myspace, lascia il campo vuoto per non visualizzare il "
+#~ "pulsante."
+
+#~ msgid "Youtube Vimeo"
+#~ msgstr "Url Vimeo"
+
+#~ msgid "Logo description font"
+#~ msgstr "Font per la descrizione logo"
+
+#~ msgid "Select a font for logo description"
+#~ msgstr "Seleziona un font per la descrizione del logo."
+
+#~ msgid "Select a color for copyright text"
+#~ msgstr "Seleziona un colore per il testo del copyright."
+
+#~ msgid "Select a image for footer background."
+#~ msgstr "Carica un'immagine come sfondo del footer."
+
+#~ msgid ""
+#~ "<a href=\"http://wpinprogress.com/updates/sueva.zip\">Download and "
+#~ "extract this archive</a>"
+#~ msgstr ""
+#~ "<a href=\"http://wpinprogress.com/updates/sueva.zip\">Scarica ed estrai "
+#~ "questo archivio</a>"
+
+#~ msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+#~ msgstr "Devi prima <a href=\"%s\">loggarti </a> per postare un commento."
+
+#~ msgid ""
+#~ "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out"
+#~ "\">Log out?</a>"
+#~ msgstr ""
+#~ "Collegato come <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out"
+#~ "\">Log out?</a>"
+
+#~ msgid "Your e-mail will not be published."
+#~ msgstr "La tua email non verrà pubblicata"
+
+#~ msgid "Leave a <span>Reply</span>"
+#~ msgstr "Lascia una <span>Risposta</span>"
+
+#~ msgid "Leave a <span>Reply</span> to %s"
+#~ msgstr "Lascia una <span>Risposta</span> a %s"
+
+#~ msgid "Cancel reply"
+#~ msgstr "Cancella risposta"
+
+#~ msgid "Name"
+#~ msgstr "Nome"
+
+#~ msgid "Website"
+#~ msgstr "Sito web"
+
+#~ msgid "Your Message"
+#~ msgstr "Messaggio"
+
+#~ msgid "Cerca"
+#~ msgstr "s"
+
+#~ msgid "Impostazioni Generali"
+#~ msgstr "General Settings"

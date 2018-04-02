@@ -1,0 +1,43 @@
+li#accordion-section-jaxlite-customize-info h3.accordion-section-title, 
+li#accordion-section-jaxlite-customize-info h3.accordion-section-title:focus,
+li#accordion-section-jaxlite-customize-info h3.accordion-section-title:hover { 
+	background-color: #d54e21 !important; 
+	color: #fff !important;
+}
+
+li#accordion-section-jaxlite-customize-info h3.accordion-section-title:after { 
+	color: #fff !important;
+}
+
+a.getpremium {
+	content:"plus";
+	position: relative;
+	top: -1px;
+	margin: 15px 0 0 0;
+	padding: 6px 9px !important;
+	font-size: 12px !important;
+	color: #ffffff !important;
+	background-color: #d54e21 !important;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	-webkit-font-smoothing: subpixel-antialiased !important;
+	-webkit-transition:all .3s ease;
+	-moz-transition:all .3s ease;
+	-o-transition:all .3s ease;
+	display:inline-block;
+	visibility:visible;
+	border: none !important;
+	outline: none !important;
+}
+
+a.getpremium:hover {
+	color: #fff !important;
+	background-color: #333 !important;
+}
+
+a.getpremium:hover ,
+a.getpremium:focus ,
+a.getpremium:active {
+	border: none !important;
+	outline: none !important;
+}
